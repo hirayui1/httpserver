@@ -1,4 +1,4 @@
-package com.example.httpserver;
+package com.example.httpserver.managers;
 
 import java.io.IOException;
 import java.net.ServerSocket;

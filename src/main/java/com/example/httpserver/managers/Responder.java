@@ -1,4 +1,4 @@
-package com.example.httpserver;
+package com.example.httpserver.managers;
 
 import com.example.httpserver.responses.GetResponse;
 import com.example.httpserver.responses.PostResponse;

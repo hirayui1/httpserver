@@ -1,4 +1,6 @@
-import com.example.httpserver.SocketManager;
+package com.example.httpserver;
+
+import com.example.httpserver.managers.SocketManager;
 
 import java.io.*;
 import java.net.ServerSocket;
